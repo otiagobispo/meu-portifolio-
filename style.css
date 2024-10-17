@@ -167,6 +167,14 @@ span{
     background-color: black;
     width: 50px;
 }
+.about{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 250px;
+    color: #2ecc71;
+}
+   
 .about-img img{
     width: 450px;
     height: 700px;
@@ -279,9 +287,9 @@ p{
     display: inline-block;
     padding: 0 15px;
 }
-.footer .copyrgiht{
-    margin-top: 15px;
+.footer .copyright{
+    margin-top: 20px;
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     color: white;
 }
